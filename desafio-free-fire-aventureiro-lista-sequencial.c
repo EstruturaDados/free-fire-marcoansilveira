@@ -171,7 +171,7 @@ void exibirMenu(int numItens) {
     printf("1. Adicionar Item\n");
     printf("2. Remover Item\n");
     printf("3. Listar Itens na Mochila\n");
-    printf("4. Buscar (Binário) Item na Mochila\n");
+    printf("4. Buscar (pesquisa Binária) Item na Mochila\n");
     printf("0. Sair\n");
 
     printf("-------------------------------------------\n");
