@@ -193,9 +193,6 @@ int main() {
         printf("Escolha uma opcao: ");
         scanf("%d", &opcao);
 
-        //printf("\n1 Inserir\n2 Remover\n3 Listar\n4 Buscar (Seq)\n5 Ordenar\n6 Buscar (Bin)\n0 Sair\n");
-        //scanf("%d", &op);
-
         char nome[30];
         int pos;
 
